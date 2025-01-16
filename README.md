@@ -1,7 +1,7 @@
 Foi gerado uma apresentação no power point no formato de e-book, a partir dos conhecimentos
 adquiridos nas aulas do Professor Felipe Aguiar no Bootcamp da DIO.
 
-A Inteligência Artificial utilizada foi o Copilot e também o Google Gemini.
+A Inteligência Artificial utilizada foi o Copilot e também o Google Gemini, além da imagem que foi gerada no Leonardo.AI.
 
 O prompt utilizado no Copilot foi:
 ": Você pode criar um conteúdo para um e-book sobre os benefícios e características do consórcio.
